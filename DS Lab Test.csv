@@ -1,0 +1,23 @@
+Equipment Type,ID,Energy Consumption (kWh),Efficiency (%),Operating Cost ($)
+Pump,P1,1500,75,200
+Pump,P2,2000,80,250
+Pump,P3,1800,70,230
+Pump,P4,2200,65,300
+Pump,P5,1600,78,210
+Pump,P6,1900,72,240
+Pump,P7,1700,76,220
+Pump,P8,2100,68,280
+Pump,P9,1400,74,190
+Pump,P10,2300,60,320
+Distillation Column,D1,4000,85,500
+Distillation Column,D2,4500,80,550
+Distillation Column,D3,4200,78,520
+Heat Exchanger,H1,3000,90,300
+Heat Exchanger,H2,2800,88,280
+Heat Exchanger,H3,3500,82,350
+Heat Exchanger,H4,3200,86,340
+Heat Exchanger,H5,2900,84,290
+Heat Exchanger,H6,2700,89,270
+Heat Exchanger,H7,3100,81,310
+Reactor,R1,6000,75,800
+Reactor,R2,5800,70,750
